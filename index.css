@@ -1,0 +1,38 @@
+
+.fondo-azul:hover{
+    background-color: #2ab8d7
+}
+
+#primer-parrafo{
+    background-color: crimson;
+
+}
+
+
+.color-magenta{
+    color: darkmagenta ;
+}
+
+.seccion-headings > h4{
+    background-color: #f4e20a;
+}
+
+.seccion-headings *{
+    color: chartreuse;
+}
+
+*{
+    color: #f53000 ;
+}
+
+#segundo-parrafo{
+    padding: 25px 45px 50px;
+    border: 5px inset #2ab8d7;
+    margin: 35px;
+    
+}
+
+.icono-html{
+    color: rgb(28, 169, 35);
+    font-size: 50px;
+}
